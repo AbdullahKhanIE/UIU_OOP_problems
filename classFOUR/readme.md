@@ -1,5 +1,3 @@
 # Class Test Question Link: 
-http://lms.uiu.ac.bd/pluginfile.php/200200/mod_assign/introattachment/0/CT_1.pdf?forcedownload=1 
-
-also provided in this repo
+https://github.com/AbdullahKhanIE/UIU_OOP_problems/blob/main/classFOUR/CT_1.pdf
 # Best Of Luck
